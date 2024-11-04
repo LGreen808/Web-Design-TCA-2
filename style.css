@@ -10,6 +10,7 @@ body {
     overflow: hidden;
 }
 
+/****Added text in my index.html and changed the color of it to white*****/
 h1 {
     color: white; 
 }
@@ -63,8 +64,9 @@ h1 {
 
 }
 /***Increased the width of the root of the pumpkin***/
+/***Changed the color of the root to dark green****/
 .pumpkin .root {
-    background: #517f54;
+    background:  darkgreen;
     height: 2.8em;
     width: 2.0em;
     position: absolute;
@@ -103,6 +105,7 @@ h1 {
 }
 
 /****Changed the mouth of the pumpkin to black****/
+/*********Changed the height of the mouth of the pumpkin*****/
 .pumpkin .mouth {
     border-bottom: 1em solid black;
     position: absolute;
